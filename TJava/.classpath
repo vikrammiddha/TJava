@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Common"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/backport-util-concurrent-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/CSVUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/enterprise.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/http.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxb-api_1.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/joda-time-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/jsr250-api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/partner.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/sjsxp.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/wrappertest.jar"/>
+	<classpathentry kind="lib" path="C:/Vikram Data/Java Projects/DealerImport-04-May-2011/Common/lib/wsdl4j.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
